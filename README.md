@@ -1,1 +1,1 @@
-Learning Spring boot Java, following tutorial on freecodecamp on yt. 
+Basic Crud operations project, built with Maven springboot Java 21. 
